@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?repo_id=${0xMSFTbuidldevops})
+[![Page Views Count](https://badges.toozhao.com/badges/01GSG3FF3MYR3F5YKWFRJSDPR2/blue.svg)](https://badges.toozhao.com/stats/01GSG3FF3MYR3F5YKWFRJSDPR2 "View Count")
 
 # Web3Devops
 
